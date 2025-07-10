@@ -18,8 +18,7 @@ Desarrollar una aplicación funcional en Android que permita:
 - **Versión mínima del SDK:** 24 (Nougat)
 - **API de cámara:** CameraX
 - **UI y componentes:** ViewBinding, ConstraintLayout, RecyclerView, ViewPager2
-- **Librerías adicionales:**
-  - Glide (`com.github.bumptech.glide:glide:4.12.0`)
+
 
 ## 🗂️ Estructura del proyecto
 
